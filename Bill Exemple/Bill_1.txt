@@ -1,0 +1,15 @@
+Bill for order : 1
+
+Table : 1
+
+Products: 
+Salata Caesar 21.0    x1 : 21.0 RON
+Cartofi cu cascaval 7.0    x2 : 14.0 RON
+Ursus 6.0    x3 : 18.0 RON
+Meniu Friptura 23.0    x1 : 23.0 RON
+Coca-Cola 5.0    x3 : 15.0 RON
+
+
+Total : 91.0 RON
+
+Data : Tue May 05 13:47:25 EEST 2020
